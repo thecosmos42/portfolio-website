@@ -6,13 +6,13 @@ import contactData from '@/assets/contact.json'
 const Contact = () => {
 const { description, email, linkedin, github } = contactData
   return (
-    <div id ='contact' className='w-full px-[12%] py-10 scroll-mt-20 bg-[url("/footer-bg-color.png")] bg-no-repeat bg-center bg-[length:90%_auto]'>
+    <div id ='contact' className='w-full px-[12%] py-20 scroll-mt-10 bg-[url("/footer-bg-color.png")] bg-no-repeat bg-center bg-[length:90%_auto]'>
         <h4 className='text-center mb-2 text-lg font-Ovo'>Connect with Me</h4>
         <h2 className='text-center text-5xl font-Ovo'>Get in Touch</h2>
 
-        <p className='text-center max-w-2xl mx-auto mt-5 mb-4 font-Ovo leading-tight'>{description}
+        <p className='text-center max-w-2xl mx-auto mt-5 mb-4 font-Ovo'>{description}
         </p>
-        <div className='flex justify-center gap-4 mb-12'>
+        <div className='flex justify-center gap-4 mt-10 mb-12'>
             <a target='_blank' href={linkedin}>
                 <Image src={assets.linkedin_icon} alt="LinkedIn" width={40} height={40} className='hover:opacity-80 hover:bg-lightHover hover:-translate-y-1 duration-300 hover:shadow-black'/>
             </a>
