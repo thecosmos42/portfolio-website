@@ -1,0 +1,29 @@
+{
+  "description": "Here, you'll find a collection of exciting projects I've worked on. Each of these showcases my passion for problem-solving and innovation, and they are all available on my GitHub profile. If anything piques your interest, feel free to dive deeper, explore the details, and see how it all comes together.",
+  "projectsData": [
+    {
+      "icon": "./work-1.png",
+      "title": "Cryptocurreny Recommender",
+      "description": "Built cryptocurrency recommendation models using advanced trading strategies and deep learning (CNNs & LSTMs), integrating sentiment analysis and historical trends for accurate price prediction.",
+      "link": ""
+    },
+    {
+      "icon": "./work-1.png",
+      "title": "Mobile app",
+      "description": "Mobile app development involves creating software for mobile devices...",
+      "link": ""
+    },
+    {
+      "icon": "./work-1.png",
+      "title": "UI/UX design",
+      "description": "UI/UX design focuses on creating a seamless user experience...",
+      "link": ""
+    },
+    {
+      "icon": "./work-1.png",
+      "title": "Graphics design",
+      "description": "Creative design solutions to enhance visual communication...",
+      "link": ""
+    }
+  ]
+}
