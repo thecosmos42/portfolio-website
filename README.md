@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website
 
-## Getting Started
+A Portfolio Website built with [Next.js](https://nextjs.org/). This project showcases my work, skills, and projects in a clean and modern web experience.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Overview](#overview)
+- [Portfolio Sections](#portfoliosections)
+- [Installation](#installation)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This portfolio website is designed to present my projects and achievements in a user-friendly and visually appealing format.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Portfolio Sections
 
-## Learn More
+- **Home** : A short, crisp introduction about myself
+- **About Me** : A brief about my Education, WorkEx, Hobbies, and Languages.
+- **Projects** : Section to showcase projects worked on with images.
+- **Contact** : Contains information to contact me.
 
-To learn more about Next.js, take a look at the following resources:
+## Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+You can use Node Package Manager (npm) in the root directory of the project to setup your project. Execute the following statement : `npm install`.
