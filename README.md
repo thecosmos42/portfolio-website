@@ -14,9 +14,9 @@ This portfolio website is designed to present my projects and achievements in a 
 
 ## Portfolio Sections
 
-- **Home** : A short, crisp introduction about myself
-- **About Me** : A brief about my Education, WorkEx, Hobbies, and Languages.
-- **Projects** : Section to showcase projects worked on with images.
+- **Home** : A peek into what I do
+- **About Me** : A brief introduction about myself and includes my Education, WorkEx, Hobbies, and Languages.
+- **Projects** : Section to showcase projects worked on.
 - **Contact** : Contains information to contact me.
 
 ## Installation
