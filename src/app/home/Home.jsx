@@ -1,7 +1,7 @@
 import { assets } from '@/assets/assets'
 import Image from 'next/image'
 import React from 'react'
-import headerData from '@/assets/header.json'
+import headerData from '@/app/home/home.json'
 
 const Header = () => {
   const {greetings, title, description }= headerData

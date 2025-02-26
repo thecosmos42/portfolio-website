@@ -1,9 +1,9 @@
 'use client';
 import Navbar from "./components/Navbar";
-import Header from "./components/Header";
-import About from "./components/About";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
+import Header from "./home/Home";
+import About from "./about/About";
+import Projects from "./projects/Projects";
+import Contact from "./contact/Contact";
 
 export default function Home() {
   return (

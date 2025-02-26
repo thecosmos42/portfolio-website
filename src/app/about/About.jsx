@@ -1,5 +1,5 @@
 import { assets } from '@/assets/assets';
-import descriptionData from '@/assets/about.json'
+import descriptionData from '@/app/about/about.json'
 import Image from 'next/image'
 import React from 'react'
 

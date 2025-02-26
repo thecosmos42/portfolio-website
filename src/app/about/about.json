@@ -1,0 +1,55 @@
+{
+  "description": "I'm a software developer with 2.5+ years of experience currently working on Artificial Intelligence Projects. I have a strong passion for learning new technologies and building innovative products. I have experience in building web applications,  and AI models. I have worked with various technologies like Springboot and Airflow. I have also worked on projects related to Computer Vision, Natural Language Processing, and Reinforcement Learning.",
+  "infoList": [
+    {
+      "category": "Education",
+      "entries": [
+        {
+          "title": "Bachelor of Technology in Electronics and Communication Engineering",
+          "description": "National Institute of Technology Karnataka Surathkal(NITK) India",
+          "time": "July 2018 - May 2022"
+        },
+        {
+          "title": "Masters Degree in Artificial Intelligence",
+          "description": "ABC University",
+          "time": "2025 - 2027"
+        }
+      ]
+    },
+    {
+      "category": "Work Experience",
+      "entries": [
+        {
+          "title": "Software Developer @ TransUnion",
+          "description": "Developed microservices using Springboot and worked on data pipeline projects",
+          "time": "July 2022 - Present"
+        },
+        {
+          "title": "Research Intern @ Healthcare Analytics & Language Engineering (HALE) Lab - NITK",
+          "description": "Worked on detection of cardiovascular disease(arrhythmia) from electrocardiogram signals using deep learning",
+          "time": "May 2020 - July 2021"
+        }
+      ]
+    },
+    {
+      "category": "Languages",
+      "entries": [
+        {
+          "title": "",
+          "description": "C/C++, Python, Java, JavaScript, HTML, CSS",
+          "time": ""
+        }
+      ]
+    },
+    {
+      "category": "Hobbies",
+      "entries": [
+        {
+          "title": "",
+          "description": "Chess, Karting, Table Tennis, Travelling",
+          "time": ""
+        }
+      ]
+    }
+  ]
+}

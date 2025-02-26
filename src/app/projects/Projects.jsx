@@ -1,7 +1,7 @@
 import { assets } from '@/assets/assets'
 import Image from 'next/image'
 import React from 'react'
-import project from '@/assets/projects.json'
+import project from '@/app/projects/projects.json'
 
 
 const Projects = () => {

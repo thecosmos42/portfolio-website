@@ -1,7 +1,7 @@
 import { assets } from '@/assets/assets'
 import Image from 'next/image'
 import React from 'react'
-import contactData from '@/assets/contact.json'
+import contactData from '@/app/contact/contact.json'
 
 const Contact = () => {
 const { description, email, linkedin, github } = contactData
